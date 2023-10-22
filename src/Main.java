@@ -5,8 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         int num2 = scanner.nextInt();
-        double num3 = scanner.nextDouble();
-
+        
         int d = scanner.nextInt();
 
         switch (d) {
